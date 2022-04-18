@@ -1,11 +1,15 @@
 # odin-recipe
+
 Implementation of TOP Basic HTML project
 
 ## Skills used
+
 - HTML
 
 ## What I learnt
+
 Doing this project, I learnt how to:
+
 - create a basic html page
 - link multiple pages together
 - include images in a web page
@@ -14,4 +18,5 @@ Doing this project, I learnt how to:
 - host my website with github page
 
 ## Live preview
-See the live demo [here](https://github.com/)
+
+See the live demo [here](https://hexdee.github.io/odin-recipe/)
